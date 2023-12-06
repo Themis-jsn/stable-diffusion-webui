@@ -1,6 +1,6 @@
 @echo off
 
-set PYTHON=
+set PYTHON=/Applications/Python 3.10
 set GIT=
 set VENV_DIR=
 set COMMANDLINE_ARGS=
